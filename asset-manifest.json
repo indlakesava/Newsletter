@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Newsletter/static/css/main.4e759d1e.chunk.css",
-    "main.js": "/Newsletter/static/js/main.c64efbf3.chunk.js",
-    "main.js.map": "/Newsletter/static/js/main.c64efbf3.chunk.js.map",
+    "main.css": "/Newsletter/static/css/main.f2a6f9c7.chunk.css",
+    "main.js": "/Newsletter/static/js/main.e72a593c.chunk.js",
+    "main.js.map": "/Newsletter/static/js/main.e72a593c.chunk.js.map",
     "runtime-main.js": "/Newsletter/static/js/runtime-main.6de015ad.js",
     "runtime-main.js.map": "/Newsletter/static/js/runtime-main.6de015ad.js.map",
     "static/css/2.d45d6843.chunk.css": "/Newsletter/static/css/2.d45d6843.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.610cc2b7.chunk.js.map": "/Newsletter/static/js/3.610cc2b7.chunk.js.map",
     "index.html": "/Newsletter/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/Newsletter/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.4e759d1e.chunk.css.map": "/Newsletter/static/css/main.4e759d1e.chunk.css.map",
+    "static/css/main.f2a6f9c7.chunk.css.map": "/Newsletter/static/css/main.f2a6f9c7.chunk.css.map",
     "static/js/2.76bba5cd.chunk.js.LICENSE.txt": "/Newsletter/static/js/2.76bba5cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6de015ad.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.76bba5cd.chunk.js",
-    "static/css/main.4e759d1e.chunk.css",
-    "static/js/main.c64efbf3.chunk.js"
+    "static/css/main.f2a6f9c7.chunk.css",
+    "static/js/main.e72a593c.chunk.js"
   ]
 }
